@@ -1,0 +1,20 @@
+.cardContainer {
+  height: 330px;
+  display: flex;
+  flex-direction: column;
+}
+.img {
+  width: 80px !important;
+  margin: auto;
+}
+.button {
+  padding: 10px 15px;
+  background-color: rgb(22, 66, 105);
+  border-radius: 1000px;
+  width: 100%;
+  border: none;
+  color: white;
+  font-size: 20px;
+  margin-top: auto;
+  cursor: pointer;
+}
